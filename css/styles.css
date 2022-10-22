@@ -135,13 +135,10 @@ code {
     padding-left: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
+    color: #000000
 }
 
 
-
-.nav-link {
-    color: #000;
-}
 
 .nav-link:hover {
     --color: var(--darkmode-black);
